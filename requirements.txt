@@ -1,0 +1,11 @@
+streamlit
+torch
+torchvision
+tensorflow
+numpy
+Pillow
+scikit-learn
+os
+google.generativeai
+scipy
+matplotlib
